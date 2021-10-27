@@ -1,2 +1,2 @@
-# zombie-crush-3
-project solution of c31
+# aplasta-al-zombi-3
+solución del proyecto de C31
